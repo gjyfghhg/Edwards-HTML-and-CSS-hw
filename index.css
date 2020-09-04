@@ -1,0 +1,38 @@
+span{
+    color:blue;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+
+p{
+    padding-left: 400px;
+    color: #a5c4da;
+    width: 350px;
+    font-family 'Noto Sans JP', sans-serif;
+    font-size: 1.1875 rem;
+    margin: 10px;
+
+}
+
+.container {
+    width: 300px;
+    padding-left: 410px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.buttons{
+    padding-left: 410px;
+    font-family: 'Noto Sans JP', sans-serif;
+    height: 1000px;
+    
+}
+
+
+.wholepage{
+    padding-left: 300px;
+    padding-top: 400px;
+}
+
+.buttons:hover{
+    margin:10px;
+}
