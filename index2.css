@@ -1,0 +1,40 @@
+.container {
+    padding-left: 390px;
+    padding-right: 20px;
+    width: 520px;
+    height: 392px;
+
+}
+
+.container i{
+    color: #335eea;
+    font-size: 30px;
+    margin: 16px;
+}
+h1{
+    padding-left: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 16px;
+}
+
+h2{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 10px;
+    color: #96a8c2;
+}
+
+h3{
+    padding-left: 20px;
+    padding-right: 0px;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 10px;
+    
+
+}
+span{
+
+    color:blue;
+    font-family: 'Noto Sans JP', sans-serif;
+
