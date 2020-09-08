@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(27,42,78);
+    font-weight: 300;
+}
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+h1{
+    color: white;
+    margin-left:200px;
+}
+h2{color:gray}
+.container{
+    padding-left: 320px;
+    font-size: 55px;
+}
+button{
+    background-color:#42ba96;
+    color: white;
+    font-weight: 300;
+    font-size: 30px;
+}
+span{
+    color: rgb(27, 42, 78);
+}

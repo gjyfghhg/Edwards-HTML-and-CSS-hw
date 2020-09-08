@@ -1,0 +1,26 @@
+body{
+    font-family: 'Noto Sans JP',sans-serif;
+}
+img{
+    width: 750px;
+}
+button{
+    border: white;
+    width: 400px;
+    height: 50px;
+    background-color:#42ba96 ;
+    color: white;
+}
+
+button:hover{
+    background-color: #389e80;
+}
+b{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.form-label-group{
+    border-color: white;
+    font-size: 50px;
+} 
