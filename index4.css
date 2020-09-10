@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.box1{
+    color: black;
+}
+br{
+    color: gray;
+}
+hi{
+    color: gray;
+}
+.container{
+    display: flex;
+    margin: 60px;
+}
+.box2{
+    padding-left: 50px;
+}
+.box3{
+    padding-left: 50px;
+}
